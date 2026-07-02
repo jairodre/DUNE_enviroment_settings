@@ -182,13 +182,3 @@ is equivalent to:
 ```bash
 ./duneSL7_setup.sh start pana
 ```
-
-```bash
-./duneSL7_setup.sh all
-```
-
-is the old name for:
-
-```bash
-./duneSL7_setup.sh start
-```
