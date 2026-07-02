@@ -192,4 +192,3 @@ is the old name for:
 ```bash
 ./duneSL7_setup.sh start
 ```
-```
