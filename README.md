@@ -1,4 +1,3 @@
-```markdown
 # DUNE SL7 Setup Helper
 
 `duneSL7_setup.sh` is a single helper script for starting the FNAL SL7 container, setting up the DUNE software environment, optionally sourcing a local `protoduneana` development area, and preparing JUSTIN/Rucio access.
@@ -9,7 +8,7 @@ For the usual workflow:
 
 ```bash
 ./duneSL7_setup.sh start
-```
+
 
 This starts the normal SL7 container, runs the standard DUNE setup, then runs the JUSTIN setup.
 
