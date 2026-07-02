@@ -8,7 +8,7 @@ For the usual workflow:
 
 ```bash
 ./duneSL7_setup.sh start
-
+```
 
 This starts the normal SL7 container, runs the standard DUNE setup, then runs the JUSTIN setup.
 
